@@ -1,8 +1,8 @@
-###Defination:
+### Defination:
 
 the command pattern is a behavioral design pattern in which an object is used to encapsulate all information needed to perform an action or trigger an event at a later time.
 
-###Explanation:
+### Explanation:
 
 Three entities exist in this design pattern.
 * the command itself - the action or command that needs to be executed.
